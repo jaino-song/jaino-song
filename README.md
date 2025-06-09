@@ -1,5 +1,8 @@
 # 😃 About Me:
-🏂 My name is David Jinho song! I am a full-stack software developer! 👍<br>🧑🏻‍💻 I am dedicated to merging my technical proficiency with business acumen <br>to deliver the best business outcome. ✌️
+🏂 My name is David Jinho song! I am a full-stack software developer! 👍<br>
+🧑🏻‍💻 I am dedicated to merging my technical proficiency with business acumen to deliver the best business outcome. ✌️<br>
+🇺🇸 I was born in Denton, Texas 🤠
+🟣 New York University Class of 2025 🟣
 
 
 ## 🌐 Socials:

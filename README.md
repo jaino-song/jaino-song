@@ -1,7 +1,7 @@
 # 😃 About Me:
-🏂 My name is David Jinho song! I am a full-stack software developer! 👍<br>
+🏂 My name is David Jinho song! I am a frontend software developer with backend skills! 👍<br>
 🤔 I strive to become a problem solving software developer, not just a coding machine! 🤖<br>
-🧑🏻‍💻 I am dedicated to merging my technical proficiency with business acumen to deliver the best business outcome. ✌️<br>
+🧑🏻‍💻 I translate business needs into web applications that automate manual workflows, enabling teams to do more with less effort, while designing intuitive and interactive user experiences that enhance customer satisfaction. ✌️<br>
 🇺🇸 I was born in Denton, Texas, and grew up in Austin, Texas 🤠<br>
 🇰🇷 I spent my childhood in South Korea 👘<br>
 🟣 New York University Class of 2025 🟣<br>

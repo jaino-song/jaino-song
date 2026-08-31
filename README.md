@@ -1,5 +1,5 @@
 # 😃 About Me:
-🏂 My name is David Jinho song! I am a frontend software developer with backend skills! 👍<br>
+🏂 My name is David Jinho song! I am an AI Product Engineer with a workflow automation specialization! 👍<br>
 🤔 I strive to become a problem solving software developer, not just a coding machine! 🤖<br>
 🧑🏻‍💻 I translate business needs into web applications that automate manual workflows, enabling teams to do more with less effort, while designing intuitive and interactive user experiences that enhance customer satisfaction. ✌️<br>
 🇺🇸 I was born in Denton, Texas, and grew up in Austin, Texas 🤠<br>

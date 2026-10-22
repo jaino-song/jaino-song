@@ -32,7 +32,8 @@ The Factory and Toolkit showcases contain newly authored reference examples with
 
 ## Core technologies
 
-**Product engineering:** TypeScript · React · Next.js · NestJS · PostgreSQL · Prisma  
+**Product engineering:** TypeScript · React · Next.js · NestJS · PostgreSQL · Prisma
+
 **Agent tooling and verification:** Python · CLI workflows · GitHub Actions · Automated testing
 
 ## Connect

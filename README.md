@@ -1,40 +1,30 @@
 # David Jinho Song
 
-**AI Product Engineer · Agent systems · Developer tooling**
+**AI Product Engineer · Full-stack products · AI developer tools**
 
-I build software for complex business operations and the engineering systems that help AI agents work within clear boundaries.
+I built **BabyJamJam** to connect client intake, caregiver coordination, contracts, and service records in one platform. I’m also building **Covenant Labs Factory** and shared tooling for AI-assisted software development.
 
-My work connects product development with agent orchestration, independent review, and evidence-based verification—from service operations to the tools behind AI-assisted engineering.
+## What I’m building
 
-## Selected work
+### [BabyJamJam — software for home-care operations](https://github.com/jaino-song/babyjamjam-admin)
 
-### [BabyJamJam](https://github.com/jaino-song/babyjamjam-admin)
+Home-care teams need to keep clients, caregivers, schedules, and contracts aligned throughout a service. I built the workflows that connect those records, from initial inquiry to completed service documentation, with branch-scoped access and integrated communications.
 
-A branch-aware operations platform for maternal and newborn home care. It connects client intake, workforce coordination, contracts, service records, communications, and AI-assisted administration in one product system.
+**Built with:** TypeScript · Next.js · NestJS · PostgreSQL · Prisma
 
-**Engineering focus:** translating real operating workflows into shared domain models, access boundaries, and connected product experiences.
+### [Covenant Labs Factory — coordinating the work of coding agents](https://github.com/jaino-song/covenant-factory-showcase)
 
-### [Covenant Labs Factory](https://github.com/jaino-song/covenant-factory-showcase)
+I’m building a development workflow with distinct planning, implementation, review, and QA roles. The problem I’m tackling: an agent can report completion while required checks are missing or refer to a different code revision.
 
-An active project around multi-agent software engineering: scoped implementation, independent reviews, and verification tied to the exact work being assessed.
+[Explore the architecture](https://github.com/jaino-song/covenant-factory-showcase/blob/main/docs/architecture.md) · [Run the evidence-checking demo](https://github.com/jaino-song/covenant-factory-showcase#run-it-in-60-seconds) · **In development**
 
-The public showcase explains the V2 architecture and includes an executable evidence-gate example that distinguishes complete evidence, missing observations, stale candidates, tampering, and observed defects.
+### [Agent Engineering Toolkit — consistent rules across coding tools](https://github.com/jaino-song/agent-engineering-toolkit)
 
-**Engineering focus:** making agent handoffs and verification inspectable while keeping release authority explicit.
+I built shared engineering rules, skill catalogs, and configuration tooling for **Claude Code, Codex, OpenCode, and Antigravity**. The toolkit addresses the setup and rule drift that can come with switching tools: common rules live in one place, while adapters handle each runtime’s configuration.
 
-### [Agent Engineering Toolkit](https://github.com/jaino-song/agent-engineering-toolkit)
+[Explore the architecture](https://github.com/jaino-song/agent-engineering-toolkit/blob/main/docs/architecture.md) · [Run the preview-and-rollback demo](https://github.com/jaino-song/agent-engineering-toolkit#run-the-public-reference-demo)
 
-Shared engineering rules, skill catalogs, and configuration workflows across Claude Code, Codex, OpenCode, and Antigravity. The public showcase demonstrates selective context, configuration previews, repeatable application, and rollback that preserves later edits.
-
-**Engineering focus:** consistent behavior across runtimes, recoverable changes, and a clear distinction between instructions and code-enforced checks.
-
-The Factory and Toolkit showcases contain newly authored reference examples with synthetic inputs. Their full implementations and operational configuration remain private; the examples make no model or provider calls.
-
-## Core technologies
-
-**Product engineering:** TypeScript · React · Next.js · NestJS · PostgreSQL · Prisma
-
-**Agent tooling and verification:** Python · CLI workflows · GitHub Actions · Automated testing
+*Factory and Toolkit implementations are private. Their public showcases contain architecture and runnable reference demos with synthetic inputs.*
 
 ## Connect
 

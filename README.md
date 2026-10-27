@@ -18,13 +18,13 @@ I’m building a development workflow with distinct planning, implementation, re
 
 [Explore the architecture](https://github.com/jaino-song/covenant-factory-showcase/blob/main/docs/architecture.md) · [Run the evidence-checking demo](https://github.com/jaino-song/covenant-factory-showcase#run-it-in-60-seconds) · **In development**
 
-### [Agent Engineering Toolkit — consistent rules across coding tools](https://github.com/jaino-song/agent-engineering-toolkit)
+### [Agent Harnesses — consistent rules across coding tools](https://github.com/jaino-song/agent-harnesses)
 
 I built shared engineering rules, skill catalogs, and configuration tooling for **Claude Code, Codex, OpenCode, and Antigravity**. The toolkit addresses the setup and rule drift that can come with switching tools: common rules live in one place, while adapters handle each runtime’s configuration.
 
-[Explore the architecture](https://github.com/jaino-song/agent-engineering-toolkit/blob/main/docs/architecture.md) · [Run the preview-and-rollback demo](https://github.com/jaino-song/agent-engineering-toolkit#run-the-public-reference-demo)
+[Explore the architecture](https://github.com/jaino-song/agent-harnesses/blob/main/docs/architecture.md) · [Run the preview-and-rollback demo](https://github.com/jaino-song/agent-harnesses#run-the-public-reference-demo)
 
-*Factory and Toolkit implementations are private. Their public showcases contain architecture and runnable reference demos with synthetic inputs.*
+*Factory and Agent Harnesses implementations are private. Their public showcases contain architecture and runnable reference demos with synthetic inputs.*
 
 ## Connect
 

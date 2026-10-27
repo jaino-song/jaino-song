@@ -1,14 +1,14 @@
 # David Jinho Song
 
-**AI Product Engineer · Full-stack products · AI developer tools**
+**Product Engineer · AI-powered business operations platforms · Agent systems**
 
-I built **BabyJamJam** to connect client intake, caregiver coordination, contracts, and service records in one platform. I’m also building **Covenant Labs Factory** and shared tooling for AI-assisted software development.
+I built **BabyJamJam**, an **AI-powered Postpartum Care Operations Platform**, to connect client intake, caregiver coordination, contracts, and service records. I’m also building **Covenant Labs Factory** and shared tooling for AI-assisted software development.
 
 ## What I’m building
 
-### [BabyJamJam — software for home-care operations](https://github.com/jaino-song/babyjamjam-admin)
+### [BabyJamJam — AI-powered Postpartum Care Operations Platform](https://github.com/jaino-song/babyjamjam-admin)
 
-Home-care teams need to keep clients, caregivers, schedules, and contracts aligned throughout a service. I built the workflows that connect those records, from initial inquiry to completed service documentation, with branch-scoped access and integrated communications.
+Postpartum care providers need to keep clients, caregivers, schedules, and contracts aligned throughout a service. I built the workflows that connect those records, from initial inquiry to completed service documentation for maternal and newborn care, with branch-scoped access and integrated communications.
 
 **Built with:** TypeScript · Next.js · NestJS · PostgreSQL · Prisma
 
